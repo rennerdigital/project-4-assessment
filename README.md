@@ -1,4 +1,4 @@
-#Timed Assessment for the Software Engineering Program of General Assembly 
+# Timed Assessment for the Software Engineering Program of General Assembly 
 
 # Getting Started with Create React App
 
